@@ -12,4 +12,6 @@
 
 - (NSString *)versionOne;
 
+- (NSString *)versionTwo;
+
 @end
